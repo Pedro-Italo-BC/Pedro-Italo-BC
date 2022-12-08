@@ -5,6 +5,7 @@
 
 
 ![Pedro Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Italo-BC&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Italo-BC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Tecnologias que tenho experiencia 👇
@@ -17,10 +18,6 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Italo-BC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
