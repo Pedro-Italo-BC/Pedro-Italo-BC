@@ -4,7 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroiofficial/)
 
 
-![Pedro Italo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Italo-BC&show_icons=true&theme=radical)
+![Pedro Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Italo-BC&show_icons=true&theme=dracula&count_private=true)
+
 
 ### Tecnologias que tenho experiencia 👇
 
