@@ -10,7 +10,7 @@
 
 ### Techs that i know 👇
 
-<div style="display: inline_block"><br/>
+<div style="display: flex; gap: 10px 20px;"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
