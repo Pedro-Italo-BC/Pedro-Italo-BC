@@ -1,8 +1,3 @@
-### Contanct
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-italo-borges-cardoso-1b2959238/)
-
-
 ![Pedro Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Italo-BC&show_icons=true&theme=dracula&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Italo-BC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -19,7 +14,8 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  
 </div>
-
 <br/>
+### Contanct
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-italo-borges-cardoso-1b2959238/)
+
