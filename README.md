@@ -1,4 +1,4 @@
-###
+### Contanct
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-italo-borges-cardoso-1b2959238/)
 
@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Italo-BC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Techs that i know 👇
+### Knowledge
 
 <div style="display: flex; gap: 20px 20px;"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -23,5 +23,3 @@
 </div>
 
 <br/>
-
-FullStack Developer 😎👍
