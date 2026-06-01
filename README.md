@@ -1,22 +1,34 @@
-![Pedro Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Italo-BC&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Italo-BC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# Pedro Ítalo
 
+Software Developer focused on building reliable systems, understanding how computers work, and solving complex problems through software.
 
-### Knowledge
+## Interests
 
-<div style="display: flex; gap: 20px 20px;"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</div>
-<br/>
+- Software Engineering
+- Distributed Systems
+- Computer Architecture
+- Operating Systems
+- Algorithms & Data Structures
+- Optimization
+- Backend Development
 
-### Contanct
+## Focus Areas
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-italo-borges-cardoso-1b2959238/)
+- Building practical software projects
+- Studying computer systems and low-level programming
+- Exploring Linux, networking, and system design
+- Learning how large-scale systems are designed and operated
 
+## Tech Stack
+
+Java • TypeScript • C • CPP • PostgreSQL • Docker • Redis • Linux
+
+## Philosophy
+
+> Understand first. Optimize later.
+>
+> Simple systems scale better than complex ideas.
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/pedro-italo-borges-cardoso-1b2959238/
